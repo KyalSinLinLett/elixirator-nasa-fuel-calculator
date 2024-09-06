@@ -17,6 +17,9 @@ pp = FuelCalculator.Worker.execute_flight_program 75432, [{:launch, "earth"}, {:
 ### run tests
 ```bash
 mix test
+
+# with coverage
+mix test --cover
 ```
 
 ### setup
