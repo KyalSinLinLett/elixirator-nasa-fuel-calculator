@@ -29,3 +29,6 @@ mix deps.get
 mix deps.compile
 ```
 
+### comments
+- interesting exercise
+- would like to add more tests if had more time - like Genserver tests to improve test coverage
